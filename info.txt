@@ -6,6 +6,8 @@ what is merging
 adding data in task1
 this is to check mergetool
 what if not mergetool
+
 now created task2
 
 
+let us see pull request conflict
