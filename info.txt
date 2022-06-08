@@ -1,5 +1,6 @@
 This is added by me
-this is to check mergetool
+mergetool1
 adding data in task1
+this is to check mergetool
 what if not mergetool
 
