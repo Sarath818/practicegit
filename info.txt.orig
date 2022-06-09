@@ -1,11 +1,15 @@
 This is added by me
-<<<<<<< HEAD
+what is merging
 mergetool1
-=======
 mergetool2
 what is merging
->>>>>>> c9457c0673caa0fa67dd45d670ee401f34c6f54d
 adding data in task1
 this is to check mergetool
 what if not mergetool
+<<<<<<< HEAD
+now created task2
 
+
+=======
+let us see pull request conflict
+>>>>>>> 741d990543892d1186b1cb1dd5865f35c01ae5e3
