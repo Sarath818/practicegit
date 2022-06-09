@@ -12,3 +12,4 @@ now created task2
 ffffffgggghhh
 let us see pull request conflict
 checking fast forward mergetool
+checking recursive mergetool
